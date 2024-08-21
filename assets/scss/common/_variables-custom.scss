@@ -1,0 +1,13 @@
+// Put your custom SCSS variables here
+* {
+  margin: 0;
+  padding: 0;
+}
+.Title {
+  margin-bottom: 60px;
+}
+.imageback {
+  mix-blend-mode: difference;
+  -webkit-filter: invert(100%);
+  filter: invert(100%);
+}
